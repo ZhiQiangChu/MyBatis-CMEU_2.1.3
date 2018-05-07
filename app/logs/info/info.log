@@ -1,0 +1,24 @@
+2018-05-07 11:29:39 --> 运行MyBatis-CMEU...
+---------------------->  at pers.Main.main(?:?) 
+ 
+2018-05-07 11:29:41 --> 初始化首页...
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:29:41 --> 初始化首页成功!
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:29:41 --> 加载左侧数据库树与事件....
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:29:41 --> 加载所有数据库到左侧树集成功!
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:29:41 --> 执行查询默认配置信息并加载到首页...
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:29:41 --> 加载配置信息到首页成功!
+---------------------->  at pers.cmeu.controller.IndexController.initialize(?:?) 
+ 
+2018-05-07 11:33:50 --> 关闭MyBatis-CMEU!!!
+---------------------->  at pers.Main.main(?:?) 
+ 
